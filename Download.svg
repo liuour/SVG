@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="112px" height="20px" viewBox="0 0 112 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="112px" height="21px" viewBox="0 0 112 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>68747470733a2f2f6170692e62696e747261792e636f6d2f7061636b616765732f72696d652f737175697272656c2f72656c656173652f696d616765732f646f776e6c6f61642e737667</title>
     <defs>
-        <rect id="path-1" x="0" y="0" width="112" height="20" rx="3"></rect>
+        <rect id="path-1" x="0" y="0" width="112" height="21" rx="3"></rect>
         <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="linearGradient-3">
             <stop stop-color="#BBBBBB" stop-opacity="0.1" offset="0%"></stop>
             <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
@@ -16,9 +16,9 @@
                 </mask>
                 <g id="矩形"></g>
                 <g id="编组" mask="url(#mask-2)" fill-rule="nonzero">
-                    <polygon id="路径" fill="#555555" points="0 0 66 0 66 20 0 20"></polygon>
-                    <polygon id="路径" fill="#007EC6" points="66 0 112 0 112 20 66 20"></polygon>
-                    <polygon id="路径" fill="url(#linearGradient-3)" points="0 0 112 0 112 20 0 20"></polygon>
+                    <polygon id="路径" fill="#555555" points="0 0 66 0 66 21 0 21"></polygon>
+                    <polygon id="路径" fill="#007EC6" points="66 0 112 0 112 21 66 21"></polygon>
+                    <polygon id="路径" fill="url(#linearGradient-3)" points="0 0 112 0 112 21 0 21"></polygon>
                 </g>
             </g>
             <g id="编组" transform="translate(3.000000, 2.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Verdana" font-size="12" font-weight="normal">
