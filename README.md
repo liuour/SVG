@@ -9,4 +9,4 @@
 
 ![](https://img.shields.io/badge/Download-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%234BC022) https://img.shields.io/badge/Download-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%234BC022
 
-![](https://https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9) https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9
+![](https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9) https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9
