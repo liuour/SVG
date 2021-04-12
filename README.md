@@ -1,11 +1,10 @@
-# 常用 SVG 
+# SVG 
 
-![Download0.14.0](https://raw.githubusercontent.com/liuour/SVG/07680779bf57800d72e786466f26cd2d5f339826/Download.svg)
-![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)
 
-|  名称  | SVG 图片地址  |
+
+|  效果  | 链接  |
 |---|---|
-|  Download   | https://raw.githubusercontent.com/liuour/SVG/f93511e17567a2144c0833cb0e09bb0b7b487093/Download.svg |
-| Telegram  | https://raw.githubusercontent.com/liuour/SVG/f93511e17567a2144c0833cb0e09bb0b7b487093/Telegram.svg |
-| Twitter | https://raw.githubusercontent.com/liuour/SVG/f93511e17567a2144c0833cb0e09bb0b7b487093/Twitter.svg |
+|  ![](https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022)   | https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022 |
+| ![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)  | https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4 |
+| ![](https://img.shields.io/badge/Twitter-%40yifangme-%231BA1F3) | https://img.shields.io/badge/Twitter-%40yifangme-%231BA1F3 |
 
