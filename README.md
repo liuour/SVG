@@ -13,4 +13,5 @@
 | ![](https://img.shields.io/badge/Apple-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D6D6D6) | https://img.shields.io/badge/Apple-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D6D6D6 |
 | ![](https://img.shields.io/badge/Rime%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23009CD1) | https://img.shields.io/badge/Rime%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23009CD1 |
 | ![](https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD) | https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD |
+| ![](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1) | https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1 |
 
