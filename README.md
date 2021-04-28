@@ -4,7 +4,7 @@
 4. ![](https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022)  https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022 
 5. ![](https://img.shields.io/badge/Download-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%234BC022)  https://img.shields.io/badge/Download-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%234BC022 
 6. ![](https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9)  https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9 
-7.![](https://img.shields.io/badge/V2EX-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23161617)  https://img.shields.io/badge/V2EX-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23161617 
+7. ![](https://img.shields.io/badge/V2EX-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23161617)  https://img.shields.io/badge/V2EX-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23161617 
 8. ![](https://img.shields.io/badge/Google-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23EA4336)  https://img.shields.io/badge/Google-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23EA4336 
 9. ![](https://img.shields.io/badge/Apple-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D6D6D6) https://img.shields.io/badge/Apple-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D6D6D6 
 10. ![](https://img.shields.io/badge/Rime%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23009CD1) https://img.shields.io/badge/Rime%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23009CD1 
