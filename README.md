@@ -22,3 +22,4 @@
 
 ![](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1) https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1 
 
+![](https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E4%BA%91-%230BA9FF) https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E4%BA%91-%230BA9FF
