@@ -11,3 +11,4 @@
 11. ![](https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD)  https://img.shields.io/badge/%E8%B7%AF%E7%94%B1%E5%99%A8-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2312D1DD 
 12. ![](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1) https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1 
 13. ![](https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E4%BA%91-%230BA9FF) https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E4%BA%91-%230BA9FF
+14. ![](https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98-%231BA1F3) https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98-%231BA1F3
