@@ -1,13 +1,3 @@
 1. ![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4) https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4
 2. ![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D0104C) https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D0104C
-4. ![](https://img.shields.io/badge/Twitter-%40yifangme-%231BA1F3)  https://img.shields.io/badge/Twitter-%40yifangme-%231BA1F3  
-5. ![](https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022)  https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022 
-6. ![](https://img.shields.io/badge/Download-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%234BC022)  https://img.shields.io/badge/Download-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-%234BC022 
-7. ![](https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9)  https://img.shields.io/badge/Telegram-%E7%94%B5%E6%8A%A5-%23269FD9 
-8. ![](https://img.shields.io/badge/V2EX-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23161617)  https://img.shields.io/badge/V2EX-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23161617 
-9. ![](https://img.shields.io/badge/Google-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23EA4336)  https://img.shields.io/badge/Google-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23EA4336 
-10. ![](https://img.shields.io/badge/Apple-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D6D6D6) https://img.shields.io/badge/Apple-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23D6D6D6 
-11. ![](https://img.shields.io/badge/Rime%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23009CD1) https://img.shields.io/badge/Rime%E9%BC%A0%E9%A1%BB%E7%AE%A1-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%23009CD1 
-13. ![](https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1) https://img.shields.io/badge/%E9%BC%A0%E9%A1%BB%E7%AE%A1%E5%AE%89%E8%A3%85%E5%8C%85-0.15.2-%23009CD1 
-14. ![](https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E4%BA%91-%230BA9FF) https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E4%BA%91-%230BA9FF
-15. ![](https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98-%231BA1F3) https://img.shields.io/badge/Download-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98-%231BA1F3
+3. ![](https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022)  https://img.shields.io/badge/Download-%E4%B8%8B%E8%BD%BD-%234BC022 
